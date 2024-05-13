@@ -1,0 +1,1 @@
+# A simple demo CLI based currency converter  created with the help of node.js, typescript and inquirer
